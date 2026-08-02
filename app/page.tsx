@@ -7,7 +7,7 @@ export default function Home() {
         rel="noopener noreferrer"
         className="text-sm underline underline-offset-4"
       >
-        {process.env.NEXT_PRINCEWEN_BEIAN_SERIAL || "京ICP备2023007558号-1"}
+        {process.env.NEXT_PRINCEWEN_BEIAN_SERIAL || "京ICP备2023007558号"}
       </a>
     </main>
   );
