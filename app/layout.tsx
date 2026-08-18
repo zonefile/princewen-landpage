@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: `普林斯 ${process.env.NEXT_PRINCEWEN_SITE_NAME || "Princewen.cn"}`,
+  title: `${process.env.NEXT_PRINCEWEN_SITE_NAME || "普林斯 Princewen.cn"}`,
   description: "",
 };
 
